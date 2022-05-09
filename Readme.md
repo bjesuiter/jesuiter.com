@@ -7,4 +7,4 @@ It is hosted on surge.sh and does:
 
 ## Repo Structure 
 
-- `www` Folder - the webroot which gets added to surge.sh
+- each folder is a subdomain which gets added to surge.sh
